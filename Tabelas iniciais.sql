@@ -1,3 +1,5 @@
+create database Erp
+
 use Erp
 
 create table Usuarios (
